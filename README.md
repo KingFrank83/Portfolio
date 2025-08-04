@@ -47,8 +47,8 @@ This portfolio was built from scratch without any frontend frameworks or third-p
 
 ---
 
-> _"Where code meets skills"_ — this isn’t just a slogan. It’s the story of a developer building something great from the ground up.
+> _"Where code meets skills" — this isn’t just a slogan. It’s the story of a developer building something great from the ground up.
 
 ---
 
-Thanks for visiting!
+Thanks for visiting.
