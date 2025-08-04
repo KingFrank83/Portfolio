@@ -42,6 +42,7 @@ This portfolio was built from scratch without any frontend frameworks or third-p
 
 - **Email**: Dapperfrank843@gmail.com  
 - **GitHub**: [@KingFrank83](https://github.com/KingFrank83)
+  This is my live website link:file:///C:/Users/user/OneDrive/Desktop/WERE%20FRANKLIN/index.html
 
 ---
 
